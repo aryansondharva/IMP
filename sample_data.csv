@@ -1,0 +1,25 @@
+Region,Quarter,Sales,Growth_Rate,Product_Category,Revenue
+North America,Q1,125000,15.2,Electronics,450000
+North America,Q2,142000,18.5,Electronics,520000
+North America,Q3,138000,12.8,Electronics,495000
+North America,Q4,155000,22.1,Electronics,580000
+Europe,Q1,98000,-5.2,Electronics,350000
+Europe,Q2,92000,-8.1,Electronics,330000
+Europe,Q3,105000,2.4,Electronics,375000
+Europe,Q4,110000,8.9,Electronics,395000
+Asia Pacific,Q1,87000,25.6,Electronics,310000
+Asia Pacific,Q2,95000,28.2,Electronics,340000
+Asia Pacific,Q3,102000,31.5,Electronics,365000
+Asia Pacific,Q4,118000,35.8,Electronics,425000
+North America,Q1,75000,8.3,Software,280000
+North America,Q2,82000,12.7,Software,305000
+North America,Q3,89000,16.2,Software,330000
+North America,Q4,95000,19.8,Software,355000
+Europe,Q1,65000,-2.1,Software,240000
+Europe,Q2,68000,1.5,Software,255000
+Europe,Q3,72000,5.8,Software,270000
+Europe,Q4,76000,9.2,Software,285000
+Asia Pacific,Q1,45000,42.3,Software,165000
+Asia Pacific,Q2,52000,48.6,Software,190000
+Asia Pacific,Q3,58000,52.1,Software,215000
+Asia Pacific,Q4,65000,55.8,Software,240000

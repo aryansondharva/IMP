@@ -1,0 +1,19 @@
+{
+  "name": "day-26",
+  "version": "1.0.0",
+  "description": "A complete **Conversational Data Analysis Agent** that allows users to upload CSV, PDF, or Excel reports, automatically analyzes the data, and speaks insights out loud. Users can also ask follow-up questions by voice for a fully conversational experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.0"
+  }
+}

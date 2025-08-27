@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Installation script for NEXUS - Conversational Data Analysis Agent
+Installation script for N9NE - Advanced Multilingual Voice Agent & Data Analysis Platform
 Run this script to install all required dependencies.
 """
 
@@ -19,7 +19,7 @@ def install_package(package):
 
 def main():
     """Install all required packages."""
-    print("🚀 Installing dependencies for NEXUS - Conversational Data Analysis Agent")
+    print("🚀 Installing dependencies for N9NE - Advanced Multilingual Voice Agent & Data Analysis Platform")
     print("=" * 70)
     
     # Core packages
